@@ -51,19 +51,19 @@ Evaluation metrics used:
 
 ### Model Performance Table
 
-
+![Model Performance Table](results/model_performance_table.png)
 
 ### Performance Comparison Plot
 
-
+![Performance Comparison](results/performance_comparison.png)
 
 ### Confusion Matrices
 
-
+![Confusion Matrices](results/confusion_matrices.png)
 
 ### Accuracy Comparison (Bar Plot)
 
-
+![Accuracy Comparison](results/accuracy_comparison.png)
 
 ---
 
